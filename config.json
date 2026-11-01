@@ -1,0 +1,65 @@
+{
+  "brand": "Купибот",
+  "bot_url": "",
+  "channel_url": "",
+  "support_url": "",
+  "community_url": "",
+  "domain": "",
+  "metrika_id": "",
+  "logo": "",
+  "tariffs": [
+    {
+      "name": "Тариф 1",
+      "price": 1200,
+      "period": null,
+      "description": "Состав и срок тарифа уточняйте в боте",
+      "limits": [],
+      "features": [],
+      "url": ""
+    },
+    {
+      "name": "Тариф 2",
+      "price": 2500,
+      "period": null,
+      "description": "Состав и срок тарифа уточняйте в боте",
+      "limits": [],
+      "features": [],
+      "url": ""
+    },
+    {
+      "name": "Тариф 3",
+      "price": 5000,
+      "period": null,
+      "description": "Состав и срок тарифа уточняйте в боте",
+      "limits": [],
+      "features": [],
+      "url": ""
+    }
+  ],
+  "platforms": [
+    {
+      "name": "Авито",
+      "status": "Доступно"
+    },
+    {
+      "name": "HeadHunter / hh.ru",
+      "status": "В разработке"
+    },
+    {
+      "name": "Telegram · публичные каналы",
+      "status": "В разработке"
+    },
+    {
+      "name": "Auto.ru",
+      "status": "Планируется"
+    },
+    {
+      "name": "Циан",
+      "status": "Планируется"
+    },
+    {
+      "name": "Юла",
+      "status": "Планируется"
+    }
+  ]
+}
